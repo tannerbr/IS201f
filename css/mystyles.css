@@ -1,0 +1,89 @@
+p{
+    font-weight:normal;
+    font-size: large;
+    color:black;
+}
+
+#TopofPage{
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: #ccc;
+}
+
+.tableau{
+    display: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+
+img{
+    display: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+body{
+    background-color: whitesmoke;
+    font-family:'Times New Roman', Times, serif;
+    border: 2px solid black; 
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+#list{
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration:double;
+    text-align: center;
+    text-shadow: #ccc;
+    color: dimgrey;
+}
+
+#navbar{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ol{
+    list-style-position: inside;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+ul{
+    list-style-position: inside;
+    text-align:center;
+    text-indent:-1.3cm;
+    font-weight:normal;
+    font-size: large;
+    
+}
+
+nav{
+    background-color: lightgrey;
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a{
+    float: right;
+    color: black;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color: #ccc;
+
+}
+
+.center {
+    text-align:center;
+    display:block;
+  }
